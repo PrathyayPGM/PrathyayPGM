@@ -2,7 +2,8 @@
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on AI
-  reach me via discord - prathyaym
+- 📪 reach me via discord -
+  prathyaym
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: i am interested in science
 
