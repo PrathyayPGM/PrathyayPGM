@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PrathyayPGM
 - 👀 I’m interested in python coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on AI
 - 📪 reach me via discord -
-  prathyaym
+  fatal_prathyaym
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: i am interested in science
 
