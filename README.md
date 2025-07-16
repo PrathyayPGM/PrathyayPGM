@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathyayPGM
 - 👀 I’m interested in python coding
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on AI
 - 📪 reach me via discord -
   fatal_prathyaym
