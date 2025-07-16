@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrathyayPGM
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on AI
+- 💞️ I’m looking to collaborate on game dev
 - 📪 reach me via discord -
   fatal_prathyaym
 - 😄 Pronouns: He, Him
